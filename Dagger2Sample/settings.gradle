@@ -1,0 +1,2 @@
+include ':app', ':base', ':course', ':author'
+rootProject.name='Dagger2'
