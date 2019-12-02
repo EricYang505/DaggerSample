@@ -1,2 +1,2 @@
 # DaggerSample
-Dagger2 with modules compares with Dagger Android
+Dagger2 implementation compares with Dagger Android for a multi-module app
